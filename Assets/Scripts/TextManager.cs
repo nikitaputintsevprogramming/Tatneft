@@ -9,6 +9,6 @@ public class TextManager : MonoBehaviour
     
     public void SetTextCount()
     {
-        gameObject.GetComponent<Text>().text = "Поздравляем, вы набрали " + _Counter._count + " из 10 правильных ответов!";
+        gameObject.GetComponent<Text>().text = "Поздравляем, вы набрали " + _Counter._count + " из 12 правильных ответов!";
     }
 }
