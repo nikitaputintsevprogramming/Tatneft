@@ -22,4 +22,9 @@ public class Counter : MonoBehaviour
     {
         _count++;
     }
+
+    public void ResetCount()
+    {
+        _count = 0;
+    }
 }
