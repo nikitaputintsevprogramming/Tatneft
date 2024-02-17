@@ -3,17 +3,12 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class TextManager : Counter
+public class TextManager : MonoBehaviour
 {
-    void Start()
+    [SerializeField] private Counter _Counter;
+    
+    public void SetTextCount()
     {
-        if(answer)
-        {
-            gameObject.GetComponent<Text>().text = "Совершенно верно!";
-        }
-        else
-        {
-            gameObject.GetComponent<Text>().text = "Неверно!";
-        }
+        gameObject.GetComponent<Text>().text = "Поздравляем, вы набрали " + _Counter._count + " из 10 правильных ответов!";
     }
 }

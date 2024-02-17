@@ -5,11 +5,7 @@ using UnityEngine.UI;
 
 public class Counter : MonoBehaviour
 {
-    [SerializeField] private bool[] _answers;
-
-    [SerializeField] private int _count;
-    public bool answer;
-    public int numberQuestion;
+    public int _count;
 
     void Start()
     {
@@ -24,15 +20,5 @@ public class Counter : MonoBehaviour
     public void ResetCount()
     {
         _count = 0;
-    }
-
-    public void SetTrue()
-    {
-        answer = true;
-    }
-
-    public void SetFalse()
-    {
-        answer = false;
     }
 }
