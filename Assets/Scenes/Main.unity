@@ -2872,6 +2872,31 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1164137924}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u043D\u043E
+            \u0432\u0435\u0440\u043D\u043E!"
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 698112050}
+        m_TargetAssemblyTypeName: Counter, Assembly-CSharp
+        m_MethodName: UpCount
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &126638525
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3003,6 +3028,18 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 521047918}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u041D\u0435\u0432\u0435\u0440\u043D\u043E!"
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &129946355
@@ -5026,6 +5063,31 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 801212247}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u043D\u043E
+            \u0432\u0435\u0440\u043D\u043E!"
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 698112050}
+        m_TargetAssemblyTypeName: Counter, Assembly-CSharp
+        m_MethodName: UpCount
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &268190048
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6625,6 +6687,18 @@ MonoBehaviour:
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 698112050}
+        m_TargetAssemblyTypeName: Counter, Assembly-CSharp
+        m_MethodName: SetFalse
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -10274,6 +10348,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1796195620}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u041D\u0435\u0432\u0435\u0440\u043D\u043E!"
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &532528292
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -10531,6 +10617,31 @@ MonoBehaviour:
       - m_Target: {fileID: 1520331813}
         m_TargetAssemblyTypeName: UI.Pagination.PagedRect, Assembly-CSharp
         m_MethodName: NextPage
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1808925153}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u043D\u043E
+            \u0432\u0435\u0440\u043D\u043E!"
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 698112050}
+        m_TargetAssemblyTypeName: Counter, Assembly-CSharp
+        m_MethodName: UpCount
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -12062,7 +12173,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &603468598
 RectTransform:
   m_ObjectHideFlags: 0
@@ -12302,6 +12413,18 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 568268679}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u041D\u0435\u0432\u0435\u0440\u043D\u043E!"
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &607260387
@@ -12668,6 +12791,18 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1631820635}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u041D\u0435\u0432\u0435\u0440\u043D\u043E!"
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &644204984
@@ -13714,6 +13849,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _answers: 000000000001000000000000
   _count: 0
+  answer: 0
+  numberQuestion: 0
 --- !u!4 &698112051
 Transform:
   m_ObjectHideFlags: 0
@@ -14507,6 +14644,31 @@ MonoBehaviour:
       - m_Target: {fileID: 1520331813}
         m_TargetAssemblyTypeName: UI.Pagination.PagedRect, Assembly-CSharp
         m_MethodName: NextPage
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1007613706}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u043D\u043E
+            \u0432\u0435\u0440\u043D\u043E!"
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 698112050}
+        m_TargetAssemblyTypeName: Counter, Assembly-CSharp
+        m_MethodName: UpCount
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -15763,6 +15925,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 120691887}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u041D\u0435\u0432\u0435\u0440\u043D\u043E!"
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &813236512
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16302,6 +16476,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1007613706}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u041D\u0435\u0432\u0435\u0440\u043D\u043E!"
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &851610691
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -16566,6 +16752,18 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1164137924}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u041D\u0435\u0432\u0435\u0440\u043D\u043E!"
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &863834792
@@ -17083,6 +17281,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1415346380}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u041D\u0435\u0432\u0435\u0440\u043D\u043E!"
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &895002849
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17288,6 +17498,31 @@ MonoBehaviour:
       - m_Target: {fileID: 1520331813}
         m_TargetAssemblyTypeName: UI.Pagination.PagedRect, Assembly-CSharp
         m_MethodName: NextPage
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 120691887}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u043D\u043E
+            \u0432\u0435\u0440\u043D\u043E!"
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 698112050}
+        m_TargetAssemblyTypeName: Counter, Assembly-CSharp
+        m_MethodName: UpCount
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -17561,6 +17796,18 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1330925210}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u041D\u0435\u0432\u0435\u0440\u043D\u043E!"
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &959038715
@@ -18371,6 +18618,7 @@ GameObject:
   - component: {fileID: 1007613705}
   - component: {fileID: 1007613707}
   - component: {fileID: 1007613706}
+  - component: {fileID: 1007613708}
   m_Layer: 5
   m_Name: Text (Legacy)
   m_TagString: Untagged
@@ -18440,6 +18688,22 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1007613704}
   m_CullTransparentMesh: 1
+--- !u!114 &1007613708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1007613704}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4efcf6960fd604446960726373212310, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _answers: 
+  _count: 0
+  answer: 0
+  numberQuestion: 0
 --- !u!1 &1021222535
 GameObject:
   m_ObjectHideFlags: 0
@@ -22904,6 +23168,31 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 568268679}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u043D\u043E
+            \u0432\u0435\u0440\u043D\u043E!"
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 698112050}
+        m_TargetAssemblyTypeName: Counter, Assembly-CSharp
+        m_MethodName: UpCount
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1266586256
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -23028,6 +23317,31 @@ MonoBehaviour:
       - m_Target: {fileID: 1520331813}
         m_TargetAssemblyTypeName: UI.Pagination.PagedRect, Assembly-CSharp
         m_MethodName: NextPage
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1330925210}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u043D\u043E
+            \u0432\u0435\u0440\u043D\u043E!"
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 698112050}
+        m_TargetAssemblyTypeName: Counter, Assembly-CSharp
+        m_MethodName: UpCount
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -25238,6 +25552,31 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1033594928}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u043D\u043E
+            \u0432\u0435\u0440\u043D\u043E!"
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 698112050}
+        m_TargetAssemblyTypeName: Counter, Assembly-CSharp
+        m_MethodName: UpCount
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1344881645
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26759,6 +27098,18 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1033594928}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u041D\u0435\u0432\u0435\u0440\u043D\u043E!"
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1469219167
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -27495,7 +27846,7 @@ MonoBehaviour:
   - {fileID: 1670883096}
   - {fileID: 1005433322}
   - {fileID: 803913871}
-  editorSelectedPage: 2
+  editorSelectedPage: 3
   sizingTransform: {fileID: 0}
 --- !u!114 &1520331814
 MonoBehaviour:
@@ -27925,6 +28276,31 @@ MonoBehaviour:
       - m_Target: {fileID: 1520331813}
         m_TargetAssemblyTypeName: UI.Pagination.PagedRect, Assembly-CSharp
         m_MethodName: NextPage
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 521047918}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u043D\u043E
+            \u0432\u0435\u0440\u043D\u043E!"
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 698112050}
+        m_TargetAssemblyTypeName: Counter, Assembly-CSharp
+        m_MethodName: UpCount
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -28473,6 +28849,18 @@ MonoBehaviour:
         m_TargetAssemblyTypeName: UnityEngine.GameObject, UnityEngine
         m_MethodName: SetActive
         m_Mode: 6
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 698112050}
+        m_TargetAssemblyTypeName: Counter, Assembly-CSharp
+        m_MethodName: SetTrue
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -30039,6 +30427,31 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1631820635}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u043D\u043E
+            \u0432\u0435\u0440\u043D\u043E!"
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 698112050}
+        m_TargetAssemblyTypeName: Counter, Assembly-CSharp
+        m_MethodName: UpCount
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1698573362
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31191,6 +31604,31 @@ MonoBehaviour:
       - m_Target: {fileID: 1520331813}
         m_TargetAssemblyTypeName: UI.Pagination.PagedRect, Assembly-CSharp
         m_MethodName: NextPage
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1796195620}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u043D\u043E
+            \u0432\u0435\u0440\u043D\u043E!"
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 698112050}
+        m_TargetAssemblyTypeName: Counter, Assembly-CSharp
+        m_MethodName: UpCount
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -32778,6 +33216,31 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+      - m_Target: {fileID: 1415346380}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u0421\u043E\u0432\u0435\u0440\u0448\u0435\u043D\u043D\u043E
+            \u0432\u0435\u0440\u043D\u043E!"
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 698112050}
+        m_TargetAssemblyTypeName: Counter, Assembly-CSharp
+        m_MethodName: UpCount
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1813414930
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33530,7 +33993,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1876552650
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -35358,6 +35821,18 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 1808925153}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u041D\u0435\u0432\u0435\u0440\u043D\u043E!"
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1977506906
@@ -38277,6 +38752,18 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+      - m_Target: {fileID: 801212247}
+        m_TargetAssemblyTypeName: UnityEngine.UI.Text, UnityEngine.UI
+        m_MethodName: set_text
+        m_Mode: 5
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: "\u041D\u0435\u0432\u0435\u0440\u043D\u043E!"
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &2140276263
