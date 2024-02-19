@@ -28380,12 +28380,12 @@ MonoBehaviour:
   ShowNumbersOnButtons: 0
   ShowPageTitlesOnButtons: 0
   ShowPageIconsOnButtons: 0
-  MonitorPageCollectionForChanges: 0
-  AnimationSpeed: 5
-  AnimationCurve: 0
-  AnimationType: 0
+  MonitorPageCollectionForChanges: 1
+  AnimationSpeed: 1
+  AnimationCurve: 10
+  AnimationType: 3
   AutomaticallyMoveToNextPage: 0
-  DelayBetweenPages: 5
+  DelayBetweenPages: 0
   LoopEndlessly: 1
   NewPageTemplate: {fileID: 0}
   UseKeyboardInput: 0
@@ -28408,8 +28408,8 @@ MonoBehaviour:
   PageChangedEvent:
     m_PersistentCalls:
       m_Calls: []
-  ShowPagePreviews: 0
-  PagePreviewScale: 0.25
+  ShowPagePreviews: 1
+  PagePreviewScale: 0
   LockOneToOneScaleRatio: 1
   EnablePagePreviewOverlays: 1
   PagePreviewOverlayImage: {fileID: 0}
