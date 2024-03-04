@@ -137,7 +137,7 @@ GameObject:
   - component: {fileID: 119451}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -416,7 +416,7 @@ GameObject:
   - component: {fileID: 5329984}
   m_Layer: 5
   m_Name: Arrow (9)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -549,7 +549,7 @@ GameObject:
   - component: {fileID: 21298223}
   m_Layer: 5
   m_Name: Arrow (12)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -839,7 +839,7 @@ GameObject:
   - component: {fileID: 47789310}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -972,7 +972,7 @@ GameObject:
   - component: {fileID: 50271803}
   m_Layer: 5
   m_Name: Arrow (21)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1178,7 +1178,7 @@ GameObject:
   - component: {fileID: 74211586}
   m_Layer: 5
   m_Name: Arrow (1)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1311,7 +1311,7 @@ GameObject:
   - component: {fileID: 74940048}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1468,7 +1468,7 @@ GameObject:
   - component: {fileID: 78841106}
   m_Layer: 5
   m_Name: Arrow (15)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1601,7 +1601,7 @@ GameObject:
   - component: {fileID: 81853636}
   m_Layer: 5
   m_Name: Next
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1623,7 +1623,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.33062965, y: 0.106177084}
   m_AnchorMax: {x: 0.6757037, y: 0.16700001}
-  m_AnchoredPosition: {x: -7, y: 5}
+  m_AnchoredPosition: {x: -7, y: 4.9991455}
   m_SizeDelta: {x: -6, y: -5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &81853636
@@ -2128,7 +2128,7 @@ GameObject:
   - component: {fileID: 108621141}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2682,7 +2682,7 @@ GameObject:
   - component: {fileID: 125028206}
   m_Layer: 5
   m_Name: Arrow (18)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2815,7 +2815,7 @@ GameObject:
   - component: {fileID: 126638524}
   m_Layer: 5
   m_Name: Next (13)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2973,7 +2973,7 @@ GameObject:
   - component: {fileID: 129946354}
   m_Layer: 5
   m_Name: Next (8)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3219,7 +3219,7 @@ GameObject:
   - component: {fileID: 134593774}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3433,7 +3433,7 @@ GameObject:
   - component: {fileID: 143785550}
   m_Layer: 5
   m_Name: Arrow (20)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -3724,7 +3724,7 @@ GameObject:
   - component: {fileID: 171791966}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4110,7 +4110,7 @@ GameObject:
   - component: {fileID: 181438500}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4267,7 +4267,7 @@ GameObject:
   - component: {fileID: 203877590}
   m_Layer: 5
   m_Name: Next
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4289,7 +4289,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.33062965, y: 0.106177084}
   m_AnchorMax: {x: 0.6757037, y: 0.16700001}
-  m_AnchoredPosition: {x: -7, y: 5}
+  m_AnchoredPosition: {x: -7, y: 4.9991455}
   m_SizeDelta: {x: -6, y: -5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &203877590
@@ -4693,7 +4693,7 @@ GameObject:
   - component: {fileID: 247389657}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5032,7 +5032,7 @@ GameObject:
   - component: {fileID: 268190047}
   m_Layer: 5
   m_Name: Next (21)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5190,7 +5190,7 @@ GameObject:
   - component: {fileID: 268448770}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5323,7 +5323,7 @@ GameObject:
   - component: {fileID: 277712396}
   m_Layer: 5
   m_Name: Arrow (24)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5532,7 +5532,7 @@ GameObject:
   - component: {fileID: 280570640}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6035,7 +6035,7 @@ GameObject:
   - component: {fileID: 291745664}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6688,7 +6688,7 @@ GameObject:
   - component: {fileID: 316707858}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6833,7 +6833,7 @@ GameObject:
   - component: {fileID: 329982966}
   m_Layer: 5
   m_Name: Arrow (1)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -6855,7 +6855,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.88100004, y: 0.9142188}
   m_AnchorMax: {x: 0.92800003, y: 0.9407813}
-  m_AnchoredPosition: {x: 23.693176, y: 45.180054}
+  m_AnchoredPosition: {x: 23.693115, y: 45.180176}
   m_SizeDelta: {x: 82.9483, y: 90.36}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &329982966
@@ -6978,7 +6978,7 @@ GameObject:
   - component: {fileID: 345921505}
   m_Layer: 5
   m_Name: Arrow (22)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7192,7 +7192,7 @@ GameObject:
   - component: {fileID: 351840017}
   m_Layer: 5
   m_Name: Arrow (6)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7325,7 +7325,7 @@ GameObject:
   - component: {fileID: 352801592}
   m_Layer: 5
   m_Name: Arrow (1)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7539,7 +7539,7 @@ GameObject:
   - component: {fileID: 361444298}
   m_Layer: 5
   m_Name: Arrow (14)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7755,7 +7755,7 @@ GameObject:
   - component: {fileID: 380633856}
   m_Layer: 5
   m_Name: Next
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -7777,7 +7777,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.33062965, y: 0.106177084}
   m_AnchorMax: {x: 0.6757037, y: 0.16700001}
-  m_AnchoredPosition: {x: -7, y: 5}
+  m_AnchoredPosition: {x: -7, y: 4.9991455}
   m_SizeDelta: {x: -6, y: -5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &380633856
@@ -7966,6 +7966,7 @@ GameObject:
   - component: {fileID: 387906470}
   - component: {fileID: 387906472}
   - component: {fileID: 387906471}
+  - component: {fileID: 387906473}
   m_Layer: 5
   m_Name: Question (3)
   m_TagString: Untagged
@@ -8036,6 +8037,50 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 387906469}
   m_CullTransparentMesh: 1
+--- !u!114 &387906473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 387906469}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Navigation:
+    m_Mode: 3
+    m_WrapAround: 0
+    m_SelectOnUp: {fileID: 0}
+    m_SelectOnDown: {fileID: 0}
+    m_SelectOnLeft: {fileID: 0}
+    m_SelectOnRight: {fileID: 0}
+  m_Transition: 1
+  m_Colors:
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 1}
+    m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 1}
+    m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
+    m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
+    m_ColorMultiplier: 1
+    m_FadeDuration: 0.1
+  m_SpriteState:
+    m_HighlightedSprite: {fileID: 0}
+    m_PressedSprite: {fileID: 0}
+    m_SelectedSprite: {fileID: 0}
+    m_DisabledSprite: {fileID: 0}
+  m_AnimationTriggers:
+    m_NormalTrigger: Normal
+    m_HighlightedTrigger: Highlighted
+    m_PressedTrigger: Pressed
+    m_SelectedTrigger: Selected
+    m_DisabledTrigger: Disabled
+  m_Interactable: 1
+  m_TargetGraphic: {fileID: 387906471}
+  m_OnClick:
+    m_PersistentCalls:
+      m_Calls: []
 --- !u!1 &388145047
 GameObject:
   m_ObjectHideFlags: 0
@@ -8706,7 +8751,7 @@ GameObject:
   - component: {fileID: 431737068}
   m_Layer: 5
   m_Name: Arrow (14)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -8839,7 +8884,7 @@ GameObject:
   - component: {fileID: 438343829}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9468,7 +9513,7 @@ GameObject:
   - component: {fileID: 501294554}
   m_Layer: 5
   m_Name: Arrow (1)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9613,7 +9658,7 @@ GameObject:
   - component: {fileID: 502293114}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -9770,7 +9815,7 @@ GameObject:
   - component: {fileID: 502814038}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10141,7 +10186,7 @@ GameObject:
   - component: {fileID: 520658667}
   m_Layer: 5
   m_Name: Next
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10163,7 +10208,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.33062965, y: 0.106177084}
   m_AnchorMax: {x: 0.6757037, y: 0.16700001}
-  m_AnchoredPosition: {x: -7, y: 5}
+  m_AnchoredPosition: {x: -7, y: 4.9991455}
   m_SizeDelta: {x: -6, y: -5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &520658667
@@ -10354,7 +10399,7 @@ GameObject:
   - component: {fileID: 524002825}
   m_Layer: 5
   m_Name: Next
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10376,7 +10421,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.33062965, y: 0.106177084}
   m_AnchorMax: {x: 0.6757037, y: 0.16700001}
-  m_AnchoredPosition: {x: -7, y: 5}
+  m_AnchoredPosition: {x: -7, y: 4.9991455}
   m_SizeDelta: {x: -6, y: -5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &524002825
@@ -10655,7 +10700,7 @@ GameObject:
   - component: {fileID: 532528291}
   m_Layer: 5
   m_Name: Next (6)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10800,7 +10845,7 @@ GameObject:
   - component: {fileID: 533878770}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -10933,7 +10978,7 @@ GameObject:
   - component: {fileID: 534731128}
   m_Layer: 5
   m_Name: Next (27)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11172,7 +11217,7 @@ GameObject:
   - component: {fileID: 551142984}
   m_Layer: 5
   m_Name: Arrow
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11564,7 +11609,7 @@ GameObject:
   - component: {fileID: 565071361}
   m_Layer: 5
   m_Name: Arrow (27)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11777,7 +11822,7 @@ GameObject:
   - component: {fileID: 571150660}
   m_Layer: 5
   m_Name: Next (1)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -11799,7 +11844,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.33062965, y: 0.106177084}
   m_AnchorMax: {x: 0.6757037, y: 0.16700001}
-  m_AnchoredPosition: {x: -7, y: 5}
+  m_AnchoredPosition: {x: -7, y: 4.9991455}
   m_SizeDelta: {x: -6, y: -5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &571150660
@@ -12143,7 +12188,7 @@ GameObject:
   - component: {fileID: 581425553}
   m_Layer: 5
   m_Name: Next (2)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12165,7 +12210,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.33062965, y: 0.106177084}
   m_AnchorMax: {x: 0.6757037, y: 0.16700001}
-  m_AnchoredPosition: {x: -7, y: 5}
+  m_AnchoredPosition: {x: -7, y: 4.9991455}
   m_SizeDelta: {x: -6, y: -5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &581425553
@@ -12276,7 +12321,7 @@ GameObject:
   - component: {fileID: 581868335}
   m_Layer: 5
   m_Name: Arrow (8)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12485,7 +12530,7 @@ GameObject:
   - component: {fileID: 603424817}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -12810,7 +12855,7 @@ GameObject:
   - component: {fileID: 607260386}
   m_Layer: 5
   m_Name: Next (16)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13188,7 +13233,7 @@ GameObject:
   - component: {fileID: 644204983}
   m_Layer: 5
   m_Name: Next (18)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13414,7 +13459,7 @@ GameObject:
   - component: {fileID: 655213172}
   m_Layer: 5
   m_Name: Arrow
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -13953,7 +13998,7 @@ GameObject:
   - component: {fileID: 692028893}
   m_Layer: 5
   m_Name: Arrow (7)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14086,7 +14131,7 @@ GameObject:
   - component: {fileID: 692478376}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14316,6 +14361,7 @@ GameObject:
   m_Component:
   - component: {fileID: 698112051}
   - component: {fileID: 698112050}
+  - component: {fileID: 698112052}
   m_Layer: 0
   m_Name: AnswersManager
   m_TagString: Untagged
@@ -14351,6 +14397,107 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &698112052
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 698112049}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd81a3675a5bd6b42bc9b5a489ec2c05, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  interactionDelay: 1
+  buttons:
+  - {fileID: 1227496017}
+  - {fileID: 2025758556}
+  - {fileID: 380633854}
+  - {fileID: 1731672570}
+  - {fileID: 1959467840}
+  - {fileID: 801897174}
+  - {fileID: 81853634}
+  - {fileID: 524002823}
+  - {fileID: 2057016177}
+  - {fileID: 520658665}
+  - {fileID: 203877588}
+  - {fileID: 1226806359}
+  - {fileID: 571150658}
+  - {fileID: 581425551}
+  - {fileID: 851610688}
+  - {fileID: 739322527}
+  - {fileID: 532528289}
+  - {fileID: 1749334869}
+  - {fileID: 129946352}
+  - {fileID: 1544362990}
+  - {fileID: 959038712}
+  - {fileID: 1274321982}
+  - {fileID: 863834789}
+  - {fileID: 126638522}
+  - {fileID: 945376966}
+  - {fileID: 813236509}
+  - {fileID: 607260384}
+  - {fileID: 1266586253}
+  - {fileID: 644204981}
+  - {fileID: 1698573359}
+  - {fileID: 2140276260}
+  - {fileID: 268190045}
+  - {fileID: 1469219164}
+  - {fileID: 1344881642}
+  - {fileID: 895002846}
+  - {fileID: 1813414927}
+  - {fileID: 1977506903}
+  - {fileID: 534731126}
+  - {fileID: 1594225948}
+  - {fileID: 1914611235}
+  - {fileID: 1811148543}
+  - {fileID: 119449}
+  - {fileID: 1315775798}
+  - {fileID: 291745662}
+  - {fileID: 692478374}
+  - {fileID: 280570638}
+  - {fileID: 790799777}
+  - {fileID: 438343827}
+  - {fileID: 181438498}
+  - {fileID: 1344708685}
+  - {fileID: 603424815}
+  - {fileID: 502293112}
+  - {fileID: 1410080441}
+  - {fileID: 1277330272}
+  - {fileID: 773746768}
+  - {fileID: 1430573388}
+  - {fileID: 74940046}
+  - {fileID: 1149532964}
+  - {fileID: 1761921663}
+  - {fileID: 1700541772}
+  - {fileID: 2038721896}
+  - {fileID: 171791964}
+  - {fileID: 316707856}
+  - {fileID: 1779258385}
+  - {fileID: 1809748553}
+  - {fileID: 533878768}
+  - {fileID: 1124960112}
+  - {fileID: 1056610774}
+  - {fileID: 1134064682}
+  - {fileID: 268448768}
+  - {fileID: 1049830983}
+  - {fileID: 1034301566}
+  - {fileID: 108621139}
+  - {fileID: 502814036}
+  - {fileID: 1186360444}
+  - {fileID: 47789308}
+  - {fileID: 1248941613}
+  - {fileID: 2020582146}
+  - {fileID: 1996477548}
+  - {fileID: 134593772}
+  - {fileID: 2001342362}
+  - {fileID: 2067327427}
+  - {fileID: 247389655}
+  - {fileID: 709117257}
+  - {fileID: 1181473815}
+  - {fileID: 1323180491}
+  - {fileID: 998813619}
 --- !u!1 &709117257
 GameObject:
   m_ObjectHideFlags: 0
@@ -14365,7 +14512,7 @@ GameObject:
   - component: {fileID: 709117259}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -14533,12 +14680,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 2160, y: 3840}
   m_ScreenMatchMode: 0
-  m_MatchWidthOrHeight: 0
+  m_MatchWidthOrHeight: 0.5
   m_PhysicalUnit: 3
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
@@ -14863,7 +15010,7 @@ GameObject:
   - component: {fileID: 729933102}
   m_Layer: 5
   m_Name: Arrow
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15073,7 +15220,7 @@ GameObject:
   - component: {fileID: 739322529}
   m_Layer: 5
   m_Name: Next (5)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15231,7 +15378,7 @@ GameObject:
   - component: {fileID: 773746770}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15471,7 +15618,7 @@ GameObject:
   - component: {fileID: 790799779}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15708,7 +15855,7 @@ GameObject:
   - component: {fileID: 801897176}
   m_Layer: 5
   m_Name: Next
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -15730,7 +15877,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.33062965, y: 0.106177084}
   m_AnchorMax: {x: 0.6757037, y: 0.16700001}
-  m_AnchoredPosition: {x: -7, y: 5}
+  m_AnchoredPosition: {x: -7, y: 4.9991455}
   m_SizeDelta: {x: -6, y: -5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &801897176
@@ -16369,7 +16516,7 @@ GameObject:
   - component: {fileID: 813236511}
   m_Layer: 5
   m_Name: Next (15)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -16920,7 +17067,7 @@ GameObject:
   - component: {fileID: 851610690}
   m_Layer: 5
   m_Name: Next (4)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17065,7 +17212,7 @@ GameObject:
   - component: {fileID: 854871229}
   m_Layer: 5
   m_Name: Arrow (6)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17198,7 +17345,7 @@ GameObject:
   - component: {fileID: 863834791}
   m_Layer: 5
   m_Name: Next (12)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17607,7 +17754,7 @@ GameObject:
   - component: {fileID: 875869466}
   m_Layer: 5
   m_Name: Arrow (10)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17740,7 +17887,7 @@ GameObject:
   - component: {fileID: 895002848}
   m_Layer: 5
   m_Name: Next (24)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17966,7 +18113,7 @@ GameObject:
   - component: {fileID: 945376968}
   m_Layer: 5
   m_Name: Next (14)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18124,7 +18271,7 @@ GameObject:
   - component: {fileID: 946817566}
   m_Layer: 5
   m_Name: Arrow (11)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18257,7 +18404,7 @@ GameObject:
   - component: {fileID: 959038714}
   m_Layer: 5
   m_Name: Next (10)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18559,7 +18706,7 @@ GameObject:
   - component: {fileID: 983872071}
   m_Layer: 5
   m_Name: Arrow (5)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18692,7 +18839,7 @@ GameObject:
   - component: {fileID: 998813621}
   m_Layer: 5
   m_Name: Start
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18714,7 +18861,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.21583334, y: 0.52372915}
   m_AnchorMax: {x: 0.78800005, y: 0.60211456}
-  m_AnchoredPosition: {x: -1.9761963, y: -1.6743011}
+  m_AnchoredPosition: {x: -1.9761963, y: -1.6743164}
   m_SizeDelta: {x: 11, y: 19}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &998813621
@@ -18832,7 +18979,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1002293629
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19240,7 +19387,7 @@ GameObject:
   - component: {fileID: 1021222539}
   m_Layer: 5
   m_Name: Arrow (1)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19530,7 +19677,7 @@ GameObject:
   - component: {fileID: 1027457065}
   m_Layer: 5
   m_Name: Arrow
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19743,7 +19890,7 @@ GameObject:
   - component: {fileID: 1034301568}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20039,7 +20186,7 @@ GameObject:
   - component: {fileID: 1049830985}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20172,7 +20319,7 @@ GameObject:
   - component: {fileID: 1055793965}
   m_Layer: 5
   m_Name: Arrow (25)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20305,7 +20452,7 @@ GameObject:
   - component: {fileID: 1056610776}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20795,7 +20942,7 @@ GameObject:
   - component: {fileID: 1086497511}
   m_Layer: 5
   m_Name: Arrow (9)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21331,7 +21478,7 @@ GameObject:
   - component: {fileID: 1124960114}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21464,7 +21611,7 @@ GameObject:
   - component: {fileID: 1131425752}
   m_Layer: 5
   m_Name: Arrow
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21597,7 +21744,7 @@ GameObject:
   - component: {fileID: 1134064684}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21811,7 +21958,7 @@ GameObject:
   - component: {fileID: 1149532966}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22205,7 +22352,7 @@ GameObject:
   - component: {fileID: 1181473817}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22338,7 +22485,7 @@ GameObject:
   - component: {fileID: 1186360446}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22975,7 +23122,7 @@ GameObject:
   - component: {fileID: 1226806361}
   m_Layer: 5
   m_Name: Next (1)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -22997,7 +23144,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.33062965, y: 0.106177084}
   m_AnchorMax: {x: 0.6757037, y: 0.16700001}
-  m_AnchoredPosition: {x: -7, y: 5}
+  m_AnchoredPosition: {x: -7, y: 4.9991455}
   m_SizeDelta: {x: -6, y: -5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1226806361
@@ -23292,7 +23439,7 @@ GameObject:
   - component: {fileID: 1230319223}
   m_Layer: 5
   m_Name: Arrow (1)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23425,7 +23572,7 @@ GameObject:
   - component: {fileID: 1232595179}
   m_Layer: 5
   m_Name: Arrow (17)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23558,7 +23705,7 @@ GameObject:
   - component: {fileID: 1248941615}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23764,7 +23911,7 @@ GameObject:
   - component: {fileID: 1266586255}
   m_Layer: 5
   m_Name: Next (17)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -23922,7 +24069,7 @@ GameObject:
   - component: {fileID: 1274321984}
   m_Layer: 5
   m_Name: Next (11)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24162,7 +24309,7 @@ GameObject:
   - component: {fileID: 1276293559}
   m_Layer: 5
   m_Name: Arrow (1)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24295,7 +24442,7 @@ GameObject:
   - component: {fileID: 1276481880}
   m_Layer: 5
   m_Name: Arrow
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24428,7 +24575,7 @@ GameObject:
   - component: {fileID: 1277330274}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -24921,7 +25068,7 @@ GameObject:
   - component: {fileID: 1302230523}
   m_Layer: 5
   m_Name: Arrow (13)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25283,7 +25430,7 @@ GameObject:
   - component: {fileID: 1315775800}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25602,7 +25749,7 @@ GameObject:
   - component: {fileID: 1323180493}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25851,7 +25998,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &1328207584
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -26355,7 +26502,7 @@ GameObject:
   - component: {fileID: 1344708687}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26512,7 +26659,7 @@ GameObject:
   - component: {fileID: 1344881644}
   m_Layer: 5
   m_Name: Next (23)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26989,7 +27136,7 @@ GameObject:
   - component: {fileID: 1382836920}
   m_Layer: 5
   m_Name: Arrow (5)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27122,7 +27269,7 @@ GameObject:
   - component: {fileID: 1384987645}
   m_Layer: 5
   m_Name: Arrow (8)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27331,7 +27478,7 @@ GameObject:
   - component: {fileID: 1410080443}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27644,7 +27791,7 @@ GameObject:
   - component: {fileID: 1430573390}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28078,7 +28225,7 @@ GameObject:
   - component: {fileID: 1469219166}
   m_Layer: 5
   m_Name: Next (22)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28536,7 +28683,7 @@ GameObject:
   - component: {fileID: 1511820474}
   m_Layer: 5
   m_Name: Arrow (3)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -28910,7 +29057,7 @@ MonoBehaviour:
   - {fileID: 803913871}
   - {fileID: 1328207584}
   - {fileID: 1320330729}
-  editorSelectedPage: 26
+  editorSelectedPage: 1
   sizingTransform: {fileID: 0}
 --- !u!114 &1520331814
 MonoBehaviour:
@@ -29268,7 +29415,7 @@ GameObject:
   - component: {fileID: 1544362992}
   m_Layer: 5
   m_Name: Next (9)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29426,7 +29573,7 @@ GameObject:
   - component: {fileID: 1546197765}
   m_Layer: 5
   m_Name: Arrow (7)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -29828,7 +29975,7 @@ GameObject:
   - component: {fileID: 1594225950}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30246,7 +30393,7 @@ GameObject:
   - component: {fileID: 1616397503}
   m_Layer: 5
   m_Name: Arrow (11)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -30876,7 +31023,7 @@ GameObject:
   - component: {fileID: 1646250298}
   m_Layer: 5
   m_Name: Arrow (19)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31280,7 +31427,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.091000006, y: 0.7316146}
   m_AnchorMax: {x: 0.86100006, y: 0.84700006}
-  m_AnchoredPosition: {x: -0.21270752, y: -2.5}
+  m_AnchoredPosition: {x: -0.21264648, y: -2.5}
   m_SizeDelta: {x: 14.477692, y: 3.1669998}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1683853011
@@ -31422,7 +31569,7 @@ GameObject:
   - component: {fileID: 1698573361}
   m_Layer: 5
   m_Name: Next (19)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -31580,7 +31727,7 @@ GameObject:
   - component: {fileID: 1700541774}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32196,7 +32343,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.091000006, y: 0.7316146}
   m_AnchorMax: {x: 0.86100006, y: 0.84700006}
-  m_AnchoredPosition: {x: -0.21270752, y: -2.5}
+  m_AnchoredPosition: {x: -0.21264648, y: -2.5}
   m_SizeDelta: {x: 14.477692, y: 3.1669998}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1726166275
@@ -32257,7 +32404,7 @@ GameObject:
   - component: {fileID: 1731672572}
   m_Layer: 5
   m_Name: Next
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32279,7 +32426,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.33062965, y: 0.106177084}
   m_AnchorMax: {x: 0.6757037, y: 0.16700001}
-  m_AnchoredPosition: {x: -7, y: 5}
+  m_AnchoredPosition: {x: -7, y: 4.9991455}
   m_SizeDelta: {x: -6, y: -5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1731672572
@@ -32620,7 +32767,7 @@ GameObject:
   - component: {fileID: 1749334871}
   m_Layer: 5
   m_Name: Next (7)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -32854,7 +33001,7 @@ GameObject:
   - component: {fileID: 1761921665}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33087,7 +33234,7 @@ GameObject:
   - component: {fileID: 1779258387}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -33957,7 +34104,7 @@ GameObject:
   - component: {fileID: 1809748555}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34090,7 +34237,7 @@ GameObject:
   - component: {fileID: 1811148545}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34247,7 +34394,7 @@ GameObject:
   - component: {fileID: 1813414929}
   m_Layer: 5
   m_Name: Next (25)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -34965,7 +35112,7 @@ GameObject:
   - component: {fileID: 1872316738}
   m_Layer: 5
   m_Name: Arrow (12)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35271,7 +35418,7 @@ GameObject:
   - component: {fileID: 1896019993}
   m_Layer: 5
   m_Name: Arrow (23)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35404,7 +35551,7 @@ GameObject:
   - component: {fileID: 1896682856}
   m_Layer: 5
   m_Name: Arrow (26)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -35537,7 +35684,7 @@ GameObject:
   - component: {fileID: 1914611237}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36157,7 +36304,7 @@ GameObject:
   - component: {fileID: 1938624174}
   m_Layer: 5
   m_Name: Arrow (10)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36443,7 +36590,7 @@ GameObject:
   - component: {fileID: 1959467842}
   m_Layer: 5
   m_Name: Next
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36465,7 +36612,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.33062965, y: 0.106177084}
   m_AnchorMax: {x: 0.6757037, y: 0.16700001}
-  m_AnchoredPosition: {x: -7, y: 5}
+  m_AnchoredPosition: {x: -7, y: 4.9991455}
   m_SizeDelta: {x: -6, y: -5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1959467842
@@ -36576,7 +36723,7 @@ GameObject:
   - component: {fileID: 1959585597}
   m_Layer: 5
   m_Name: Arrow (4)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -36866,7 +37013,7 @@ GameObject:
   - component: {fileID: 1977506905}
   m_Layer: 5
   m_Name: Next (26)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37168,7 +37315,7 @@ GameObject:
   - component: {fileID: 1996477550}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37474,7 +37621,7 @@ GameObject:
   - component: {fileID: 2001342364}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37688,7 +37835,7 @@ GameObject:
   - component: {fileID: 2012832757}
   m_Layer: 5
   m_Name: Arrow (13)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -37821,7 +37968,7 @@ GameObject:
   - component: {fileID: 2020582148}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38081,7 +38228,7 @@ GameObject:
   - component: {fileID: 2025758558}
   m_Layer: 5
   m_Name: Next
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38103,7 +38250,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.33062965, y: 0.106177084}
   m_AnchorMax: {x: 0.6757037, y: 0.16700001}
-  m_AnchoredPosition: {x: -7, y: 5}
+  m_AnchoredPosition: {x: -7, y: 4.9991455}
   m_SizeDelta: {x: -6, y: -5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2025758558
@@ -38310,7 +38457,7 @@ GameObject:
   - component: {fileID: 2038721898}
   m_Layer: 5
   m_Name: Yes
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38543,7 +38690,7 @@ GameObject:
   - component: {fileID: 2057016179}
   m_Layer: 5
   m_Name: Next
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -38565,7 +38712,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.33062965, y: 0.106177084}
   m_AnchorMax: {x: 0.6757037, y: 0.16700001}
-  m_AnchoredPosition: {x: -7, y: 5}
+  m_AnchoredPosition: {x: -7, y: 4.9991455}
   m_SizeDelta: {x: -6, y: -5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2057016179
@@ -38752,7 +38899,7 @@ GameObject:
   - component: {fileID: 2067327429}
   m_Layer: 5
   m_Name: No
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39038,7 +39185,7 @@ GameObject:
   - component: {fileID: 2075948758}
   m_Layer: 5
   m_Name: Arrow (1)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39171,7 +39318,7 @@ GameObject:
   - component: {fileID: 2100217742}
   m_Layer: 5
   m_Name: Arrow (4)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39387,7 +39534,7 @@ GameObject:
   - component: {fileID: 2120697468}
   m_Layer: 5
   m_Name: Arrow (16)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -39821,7 +39968,7 @@ GameObject:
   - component: {fileID: 2140276262}
   m_Layer: 5
   m_Name: Next (20)
-  m_TagString: Untagged
+  m_TagString: Button
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
